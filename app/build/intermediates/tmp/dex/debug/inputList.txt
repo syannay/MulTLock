@@ -1,0 +1,4 @@
+C:\Users\dell\Searches\AndroidstudioProjects\MulTLock\app\build\intermediates\classes\debug
+C:\Users\dell\Searches\AndroidstudioProjects\MulTLock\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-613ddd53adf535fe74716ed05f2e47e142e476df.jar
+C:\Users\dell\Searches\AndroidstudioProjects\MulTLock\app\build\intermediates\pre-dexed\debug\prov-1.51.0.0-4834aa84a9de398ac1d988bdabc40f43e87105bb.jar
+C:\Users\dell\Searches\AndroidstudioProjects\MulTLock\app\build\intermediates\pre-dexed\debug\core-1.51.0.0-12129e15861cccf4dc54bec0ede9dda426651ec0.jar

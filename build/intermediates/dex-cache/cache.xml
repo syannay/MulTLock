@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dell\Searches\.gradle\caches\modules-2\files-2.1\com.madgag.spongycastle\prov\1.51.0.0\6755081df770180856ca48694b40cd34c2208128\prov-1.51.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6755081df770180856ca48694b40cd34c2208128">
+        <dex dex="C:\Users\dell\Searches\AndroidstudioProjects\MulTLock\app\build\intermediates\pre-dexed\debug\prov-1.51.0.0-4834aa84a9de398ac1d988bdabc40f43e87105bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\Searches\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\dell\Searches\AndroidstudioProjects\MulTLock\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-613ddd53adf535fe74716ed05f2e47e142e476df.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\Searches\.gradle\caches\modules-2\files-2.1\com.madgag.spongycastle\core\1.51.0.0\f642963312ea0e615ad65f28adc5a5b3a2a0862\core-1.51.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f642963312ea0e615ad65f28adc5a5b3a2a0862">
+        <dex dex="C:\Users\dell\Searches\AndroidstudioProjects\MulTLock\app\build\intermediates\pre-dexed\debug\core-1.51.0.0-12129e15861cccf4dc54bec0ede9dda426651ec0.jar" />
+    </item>
+
+</items>

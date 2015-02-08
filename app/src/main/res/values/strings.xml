@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MulTLock</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="default_lock_name">No Lock Connected!</string>
+    <string name="scan">Scan</string>
+    <string name="search">Search</string>
+    <string name="register">Register</string>
+</resources>
